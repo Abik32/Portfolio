@@ -18,6 +18,9 @@
 }
 
 
+
+
+
 nav{
   display: flex;
   width: 84%;
@@ -44,9 +47,20 @@ nav ul li a {
 
 }
 
+.abik-span {
+  color:black;
+  transition:  all 0.6s;
+}
+
+.abik-span:hover {
+  color: orange;
+  
+}
+
 
 nav ul li a:hover {
   color: red;
+  
 }
 
 
